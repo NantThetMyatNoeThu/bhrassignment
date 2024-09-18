@@ -29,7 +29,7 @@
 ## RDS Setup
 
 - create Aurora Mysql RDS from aws console
-![image](./doc/RDS1.jpg )
+![image](./doc/RDS1.png )
 ![image](./doc/RDS2.jpg )
 ![image](./doc/RDS3.jpg )
 - Allow EC2 security group to RDS Access
@@ -52,6 +52,7 @@
 
 - install composer and create laravel project with composer
 ![image](./doc/install-composer.png )
+- Update database credentials in .env file
 - Database migration
 ![image](./doc/laravel-setup-1.png )
 - Nginx Config for Laravel
