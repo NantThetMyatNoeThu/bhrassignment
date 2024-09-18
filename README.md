@@ -20,7 +20,6 @@
 4. [Domain Setup and SSL Deployment](#domain-setup-and-ssl-deployment)
 
 
-
 ## EC2 Setup
 
 - create ec2 from aws console
